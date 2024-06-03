@@ -1,0 +1,62 @@
+[
+    {
+        "employeeID": 247,
+        "name": "Emily Johnson",
+        "salary": 50000,
+        "department": "Engineering"
+    },
+    {
+        "employeeID": 513,
+        "name": "Matthew Martinez",
+        "salary": 60000,
+        "department": "Marketing"
+    },
+    {
+        "employeeID": 892,
+        "name": "Olivia Taylor",
+        "salary": 62000,
+        "department": "Finance"
+    },
+    {
+        "employeeID": 631,
+        "name": "Ethan Anderson",
+        "salary": 83000,
+        "department": "Human Resources"
+    },
+    {
+        "employeeID": 405,
+        "name": "Ava Jones",
+        "salary": 65000,
+        "department": "Engineering"
+    },
+    {
+        "employeeID": 729,
+        "name": "Jacob Davis",
+        "salary": 58000,
+        "department": "Marketing"
+    },
+    {
+        "employeeID": 148,
+        "name": "Emma White",
+        "salary": 53000,
+        "department": "Finance"
+    },
+    {
+        "employeeID": 586,
+        "name": "Jessica Taylor",
+        "salary": 72000,
+        "department": "Human Resources"
+    },
+    {
+        "employeeID": 942,
+        "name": "Liam Moore",
+        "salary": 59000,
+        "department": "Engineering"
+    },
+    {
+        "employeeID": 307,
+        "name": "John Doe",
+        "salary": 69000,
+        "department": "Marketing"
+    }
+]
